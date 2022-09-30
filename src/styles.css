@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+.image_style{
+    margin-top: 20px;
+}
+
+.btn{
+    width: 110px;
+    background-color: green;
+    margin-top: 20px;
+    color: white;
+    margin-left: 70px;
+    border: 0px;
+}
+.btn:hover{
+    width: 140px;
+    height: 25px;
+}
